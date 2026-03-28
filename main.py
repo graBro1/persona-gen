@@ -45,5 +45,12 @@ def main():
     print(persona.message_logs)
     write_dict_to_json(persona.message_logs, "data/step_4_5/message_logs.json")
 
+    # Create test cases
+    response = persona.generate_test_cases("data/step_6_7/input/test_cases_prompt.txt")
+    print(response)
+    test_cases = json.loads(response)
+    write_dict_to_json(test_cases, "data/step_6_7/test_cases.json")
+
+
 if __name__ == "__main__":
     main()

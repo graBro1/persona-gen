@@ -1,0 +1,228 @@
+[
+    {
+        "type": "Simple Fact-Check",
+        "task": "I want to confirm when I planned to attend the local art walk downtown to gather creative inspiration. Can you find the specific date and time?",
+        "response": {
+            "evidence": [
+                {
+                    "source": "calendar",
+                    "entry": {
+                        "title": "Attend local art walk",
+                        "description": "Explore new exhibits and gather creative inspiration",
+                        "location": "Downtown Madison",
+                        "timestamp": "2026-01-10T18:30:00Z"
+                    },
+                    "explanation": "The calendar entry clearly shows that the local art walk was scheduled for January 10, 2026, at 6:30 PM in Downtown Madison."
+                }
+            ],
+            "action": "You planned to attend the local art walk on January 10, 2026, at 6:30 PM. Mark this date if you want to revisit or prepare for a similar event."
+        }
+    },
+    {
+        "type": "Cross-Log Fact-Check",
+        "task": "Sophia and I talked about starting a kitchen herb garden and also about my plans for raised-bed garden supplies. Can you check what seeds and soil I bought and confirm if Sophia's indoor herb pots overlap with my garden plans?",
+        "response": {
+            "evidence": [
+                {
+                    "source": "calendar",
+                    "entry": {
+                        "title": "Grocery shopping for raised-bed garden supplies",
+                        "description": "Buy seeds, soil, and herbs for early spring planting",
+                        "location": "Farmers Market",
+                        "timestamp": "2026-01-15T10:00:00Z"
+                    },
+                    "explanation": "On January 15, 2026, you had a calendar event to buy seeds, soil, and herbs for your raised-bed garden."
+                },
+                {
+                    "source": "messages",
+                    "participants": [
+                        {
+                            "name": "Sophia Alberti"
+                        },
+                        {
+                            "name": "Mary Alberti"
+                        }
+                    ],
+                    "chats": [
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-01-16T12:05:44Z",
+                            "content": "Tried using some fresh herbs from my little garden in the bratwurst recipe last night. It really made a difference! You ever try growing herbs just for cooking?"
+                        },
+                        {
+                            "sender_name": "Sophia Alberti",
+                            "timestamp": "2026-01-16T12:10:13Z",
+                            "content": "That sounds lovely! I\u2019ve got a few pots of basil and rosemary on my windowsill. Nothing beats fresh herbs in Italian dishes."
+                        },
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-01-16T12:13:59Z",
+                            "content": "Exactly! It\u2019s nice to have something growing even indoors during winter. Makes cooking feel a bit more connected to the season."
+                        }
+                    ],
+                    "explanation": "Sophia mentioned she has basil and rosemary growing indoors on her windowsill, while you have planned for outdoor raised-bed garden herbs bought on January 15."
+                }
+            ],
+            "action": "Your raised-bed garden seeds and soil were purchased on January 15, and Sophia\u2019s indoor herb pots include basil and rosemary. Since Sophia grows basil and rosemary indoors and you are preparing for outdoor planting, there is no direct overlap of plans. You can continue with your raised-bed garden without worrying about duplicating Sophia\u2019s indoor pots."
+        }
+    },
+    {
+        "type": "Cross-Log Fact-Check",
+        "task": "I remember Sophia and I talked about my phone acting up and then later about my phone finally giving up. Can you confirm the timeline of my phone issues and when I became officially phone-less?",
+        "response": {
+            "evidence": [
+                {
+                    "source": "messages",
+                    "participants": [
+                        {
+                            "name": "Sophia Alberti"
+                        },
+                        {
+                            "name": "Mary Alberti"
+                        }
+                    ],
+                    "chats": [
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-02-01T21:05:33Z",
+                            "content": "Sophia, I swear, my phone is acting up again. Calls dropping and texts delayed. So annoying."
+                        },
+                        {
+                            "sender_name": "Sophia Alberti",
+                            "timestamp": "2026-02-01T21:07:45Z",
+                            "content": "Ugh, that\u2019s the worst. Have you tried restarting it or clearing some space?"
+                        },
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-02-01T21:10:12Z",
+                            "content": "Yep, all that. Might have to look into a new one soon if it keeps up."
+                        },
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-02-26T16:40:50Z",
+                            "content": "Sophia, my phone finally gave up yesterday. I\u2019m officially phone-less and it feels weird."
+                        },
+                        {
+                            "sender_name": "Sophia Alberti",
+                            "timestamp": "2026-02-26T16:42:30Z",
+                            "content": "Oh no! That\u2019s rough. How are you managing without it?"
+                        },
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-02-26T16:45:10Z",
+                            "content": "It\u2019s a little scary, honestly. I\u2019m borrowing an old one for now but it\u2019s nothing like my usual phone."
+                        }
+                    ],
+                    "explanation": "Your phone began acting up with call drops and delayed texts on February 1, 2026. Despite attempts to fix it, by February 25, it finally stopped working, and you became officially phone-less on February 25, borrowing an old phone temporarily."
+                }
+            ],
+            "action": "Your phone issues started around February 1 and culminated in complete failure by February 25, when you became officially phone-less and borrowed a backup. Planning to replace your phone soon would be advisable."
+        }
+    },
+    {
+        "type": "Cross-Log Fact-Check",
+        "task": "I want to review my recent professional development steps. Did I enroll in any hospitality courses recently, and have I attended any certification info sessions related to that? Please check my calendar and messages to confirm.",
+        "response": {
+            "evidence": [
+                {
+                    "source": "calendar",
+                    "entry": {
+                        "title": "Enroll in community college hospitality program",
+                        "description": "Complete registration and review course schedule",
+                        "location": "Community College Website",
+                        "timestamp": "2026-02-04T14:00:00Z"
+                    },
+                    "explanation": "On February 4, 2026, you enrolled in a hospitality program online through the community college."
+                },
+                {
+                    "source": "calendar",
+                    "entry": {
+                        "title": "Attend ServSafe manager certification info session",
+                        "description": "Gather information about certification requirements and dates",
+                        "location": "Local Training Center",
+                        "timestamp": "2026-02-12T18:00:00Z"
+                    },
+                    "explanation": "You planned to attend a ServSafe manager certification info session on February 12, 2026."
+                },
+                {
+                    "source": "messages",
+                    "participants": [
+                        {
+                            "name": "Tony Alberti"
+                        },
+                        {
+                            "name": "Mary Alberti"
+                        }
+                    ],
+                    "chats": [
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-02-04T17:30:27Z",
+                            "content": "Just finished enrolling in that hospitality course online. Hoping it\u2019ll help me get a better handle on managing work and budgeting."
+                        },
+                        {
+                            "sender_name": "Tony Alberti",
+                            "timestamp": "2026-02-04T17:35:54Z",
+                            "content": "That sounds like a smart move. Getting some extra skills never hurts, especially when steady work and fair pay are on the line."
+                        },
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-02-04T17:40:11Z",
+                            "content": "Exactly. I\u2019m trying to build something sustainable without relying on quick fixes or shortcuts."
+                        }
+                    ],
+                    "explanation": "In your conversation with Tony on February 4, 2026, you discussed completing your enrollment in a hospitality program."
+                }
+            ],
+            "action": "You enrolled in a community college hospitality program on February 4, 2026, and planned to attend a ServSafe certification info session on February 12. These steps indicate active professional development in hospitality management."
+        }
+    },
+    {
+        "type": "Dynamic Preference Tracking",
+        "task": "I've been trying new things and shifting habits lately. Can you check if there\u2019s been a recent change in my preferred morning beverage, especially related to any issues with my coffee machine?",
+        "response": {
+            "evidence": [
+                {
+                    "source": "messages",
+                    "participants": [
+                        {
+                            "name": "Sophia Alberti"
+                        },
+                        {
+                            "name": "Mary Alberti"
+                        }
+                    ],
+                    "chats": [
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-01-20T07:45:33Z",
+                            "content": "Morning! Hope your day\u2019s off to a better start than mine. Coffee machine broke this morning, disaster."
+                        },
+                        {
+                            "sender_name": "Sophia Alberti",
+                            "timestamp": "2026-01-20T07:47:10Z",
+                            "content": "Ugh, that\u2019s the worst way to start a day. No caffeine is a nightmare."
+                        },
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-01-20T07:50:20Z",
+                            "content": "I\u2019m seriously considering switching to tea for a bit, but it\u2019s just not the same."
+                        },
+                        {
+                            "sender_name": "Sophia Alberti",
+                            "timestamp": "2026-01-20T07:52:55Z",
+                            "content": "True, but hey, tea can be a nice change sometimes. At least it\u2019s something warm."
+                        },
+                        {
+                            "sender_name": "Mary Alberti",
+                            "timestamp": "2026-01-20T07:55:12Z",
+                            "content": "Yeah, I\u2019ll give it a shot today. Worst case, I\u2019m just grumpier than usual."
+                        }
+                    ],
+                    "explanation": "On January 20, 2026, your coffee machine broke, and you expressed considering switching to tea for your morning beverage, marking a temporary change in your usual routine."
+                }
+            ],
+            "action": "Your usual morning coffee habit was disrupted on January 20 due to a broken coffee machine, leading you to try tea as an alternative. Keep track if this change persists or reverts once your coffee machine is fixed or replaced."
+        }
+    }
+]

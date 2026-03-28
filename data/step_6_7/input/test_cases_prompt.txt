@@ -1,0 +1,120 @@
+You are the persona, !<INPUT 0>!, described below. Generate daily task cases. These should be related
+to her personal life or general professional development (e.g., learning new
+skills, seminars), rather than her specific daily professional tasks. Each
+request functions as a test case and must include a Successful Response
+with Evidence (references to specific app logs, e.g., "March 11, 7:11 PM chat
+with Mom"). 
+
+Task cases should be written in first person, and explanations, responses, and evidence should be written from the perspective of a separate task agent informing you as the user.
+Do not ask for excessively basic reassurance, such as "Did I [do activity] on [date]?"
+Ask open ended questions which cannot be answered by a simple "yes" or "no."
+"Action" should recommend what to do regarding the scenario.
+
+Goal : Focus on Fact-Checking and Information Retrieval rather than reasoning. The goal is to see if the agent can accurately "find and connect" fragmented data across different logs.
+
+5 test cases
+
+Type 1: Simple Fact-Check (1 Case)
+Goal: Basic information retrieval from a single source.
+Requirement: The task must be solvable by referring to only one app log (e.g., a single calendar event or one specific messenger bubble).
+
+
+Type 2: Cross-Log Fact-Check (3 Cases)
+Goal: Ability to connect fragmented information across multiple sources.
+Requirement: The task must require a cross-reference between:
+- Two or more different messenger sessions, OR
+- Two different apps (e.g., matching a messenger chat with a calendar schedule).
+
+ex) Test case: “Mom and I have been talking about our seed-starting plan for the garden. Can you check our latest chat to see what she's currently planning? And make sure if the plants she is planning are not the ones I already bought and repotted in my apartment”
+
+ex) Successful Response
+Calendar Evidence: You purchased Basil seedlings and repotted them on Wednesday, March 11th.
+Message Evidence: In Session 11, Mom mentioned she plans to plant Basil and tomatoes.
+Actionable Advice: Tell Mom not to start Basil because you already have your own established as of this week.
+
+
+Type 3: Dynamic Preference Tracking (1 Case)
+Goal: Recognizing an explicit change in the persona's life.
+Requirement: Focus on one clear shift in the character’s routine (e.g., a new hobby, a change in diet, or a modified routine activity).
+Objective: The agent must correctly identify the latest information over outdated persona’s data.
+
+calendar:
+!<INPUT 1>!
+
+message logs:
+!<INPUT 2>!
+
+Example format:
+
+[
+    {{
+        "type": ...,
+        "task": ...,
+        "response": {{
+            "evidence": [
+                {{
+                    "source": (either "calendar" or "messages"),
+                    "entry" (if source: calendar): {{
+                        "title": ...,
+                        "description": ...,
+                        "location": ...,
+                        "timestamp": ...,
+                    }},
+                    "messages" (if source: messages): [
+                        {{
+                            "participants": [
+                                {{"name": ...}},
+                                {{"name": ...}}
+                            ],
+                            "chats": [
+                                {{
+                                    "sender_name" ...,
+                                    "timestamp": ...,
+                                    "content": ...,
+                                }}, ...
+                            ]
+                        }}, ...
+                    ],
+                    "explanation": ...
+                }}
+            ],
+            "action": ...
+        }}
+    }}, ...
+]
+
+
+If evidence in messages originates from conversations with different people, create separate messages entries for each one.
+Only you and one other sender should be included per messages entry.
+When listing evidence between you and a specific sender, only extract and input messages from the conversation between you and them.
+All included messages should be directly relevant to the task at hand.
+Participant names should be listed exactly as they are in the message logs.
+ex)
+messages: [
+    {{
+        "participants": [
+            {{"name": "Name 1"}},
+            {{"name": (Your Name)}}
+        ],
+        "chats": [
+            {{
+                "sender_name" ...,
+                "timestamp": ...,
+                "content": ...,
+            }}, ...
+        ]
+    }},
+    {{
+        "participants": [
+            {{"name": "Name 2"}},
+            {{"name": (Your Name)}}
+        ],
+        "chats": [
+            {{
+                "sender_name" ...,
+                "timestamp": ...,
+                "content": ...,
+            }}, ...
+        ]
+    }}
+]

@@ -12,7 +12,7 @@ class RichPersona:
     self.scratch = read_json_to_dict(scratch_path)
     self.demographics = read_json_to_dict(demographics_path)
     self.name = f"{self.scratch["first_name"]} {self.scratch["last_name"]}"
-    self.agent_folder = f"../libs/genagents/agent_bank/populations/single_agent/{self.agent.id}"
+    self.agent_folder = f"libs/genagents/agent_bank/populations/single_agent/{self.agent.id}"
     self.interview_dialogue = None
     self.expert_insights = ""
     self.activities = None
@@ -76,6 +76,11 @@ class RichPersona:
           if dt_obj < msg_dt:
             chat["messages"][j:j] = conv
             break    
+
+  def generate_test_cases(self, prompt_path):
+    prompt = generate_prompt([self.name, self.activities, self.message_logs], prompt_path)
+    response = gpt_request(prompt, max_tokens=32000)
+    return response
     
 class SocialCircle:
   def __init__(self):
