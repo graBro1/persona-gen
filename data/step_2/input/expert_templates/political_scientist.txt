@@ -1,0 +1,7 @@
+Imagine you are an expert political scientist (with a PhD) taking notes while observing this interview.
+Write observations/reflections about the interviewee's political views and beliefs.
+(You should make more than 5 observations and fewer than 20. Choose the number that makes sense given the depth of the interview content.)
+
+Interview:
+
+!<INPUT 0>!

@@ -1,0 +1,61 @@
+[
+    {
+        "name": "Mary Alberti",
+        "context": [
+            "Interest: Running",
+            "Interest: Bullet journaling",
+            "Interest: Gardening",
+            "Interest: Craft-brew tastings",
+            "Preference: Moderate political views focused on community and economic fairness",
+            "Preference: Supports small business and localism",
+            "Preference: Avoids substance reliance for coping",
+            "Financial Constraint: Modest income from hourly food service job requiring strict budgeting"
+        ]
+    },
+    {
+        "name": "Sophia Alberti",
+        "context": [
+            "Interest: Cooking Italian meals",
+            "Interest: Gardening",
+            "Preference: Values family traditions and community cohesion",
+            "Preference: Moderately socially conservative",
+            "Financial Constraint: Manages household finances within a school administrative assistant\u2019s income"
+        ]
+    },
+    {
+        "name": "Tony Alberti",
+        "context": [
+            "Interest: Fishing",
+            "Interest: Gardening",
+            "Preference: Pragmatic and working-class values emphasizing steady employment and fair wages",
+            "Preference: Supports family economic security and community solidarity"
+        ]
+    },
+    {
+        "name": "Elena Rossi",
+        "context": [
+            "Interest: Running",
+            "Interest: Local art exhibits",
+            "Interest: Community volunteer work",
+            "Preference: Moderate political views focusing on education and community welfare",
+            "Financial Constraint: Working as preschool assistant with limited income typical of the sector"
+        ]
+    },
+    {
+        "name": "Mark Davis",
+        "context": [
+            "Interest: Sports",
+            "Interest: Local craft brewing",
+            "Preference: Supports fair labor practices and pragmatic career advancement within service industry"
+        ]
+    },
+    {
+        "name": "Carla Mancini",
+        "context": [
+            "Interest: Running",
+            "Interest: Local art and music scenes",
+            "Preference: Supports accessible education and inclusive local policies",
+            "Financial Constraint: Works in nonprofit sector with typical income constraints"
+        ]
+    }
+]

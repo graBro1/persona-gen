@@ -1,0 +1,2540 @@
+[
+    {
+        "participants": [
+            {
+                "name": "Sophia Alberti"
+            },
+            {
+                "name": "Mary Alberti"
+            }
+        ],
+        "messages": [
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-05T09:15:23Z",
+                "content": "Hey Sophia, did you see the snow this morning? Streets look like a winter postcard out here.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-05T09:18:45Z",
+                "content": "Yeah, I woke up to a white blanket everywhere. It\u2019s so quiet outside, kinda peaceful honestly.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-05T09:20:10Z",
+                "content": "Totally. I\u2019m just hoping it doesn\u2019t turn into that icy mess again. Slipping is the worst.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-05T09:22:30Z",
+                "content": "For real. I\u2019m double checking my boots before heading out today.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-05T09:23:55Z",
+                "content": "Smart move. Stay safe out there, okay?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-08T18:42:12Z",
+                "content": "Hey, random question\u2014remember that old music box Grandma had? Do you think it still works?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-08T18:44:30Z",
+                "content": "Oh gosh, that thing? I haven\u2019t thought about it in years. I bet it\u2019s all wound down and dusty now.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-08T18:46:05Z",
+                "content": "Yeah, but I kinda wanna see if it still plays. It\u2019d be nice to hear something from back then.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-08T18:48:10Z",
+                "content": "If you get the chance, snap a video or something. I\u2019d love to hear it too.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-08T18:50:20Z",
+                "content": "Will do. I\u2019ll check it out this weekend when I\u2019m at Mom\u2019s.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T14:05:56Z",
+                "content": "Sophia, can I rant for a sec? I swear, this week is dragging and every day feels longer than the last.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-12T14:07:30Z",
+                "content": "I hear you. Some weeks just suck the life out of you. What\u2019s going on?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T14:10:15Z",
+                "content": "Just work stuff piling up, and honestly, I feel like I\u2019m running in place. No real break in sight.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-12T14:12:40Z",
+                "content": "That sounds exhausting. Make sure you\u2019re carving out some time to breathe, even if it\u2019s just a few minutes.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T14:15:02Z",
+                "content": "Trying to. Coffee\u2019s been my best friend this week, haha.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-15T20:30:44Z",
+                "content": "Mary, did you catch that weird news about the city council meeting? Crazy stuff going on.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-15T20:32:10Z",
+                "content": "I saw a bit of it. Can\u2019t believe how heated it got over such a small issue.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-15T20:34:25Z",
+                "content": "Right? Felt like watching a drama unfold live. You\u2019d think they were debating something way bigger.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-15T20:36:50Z",
+                "content": "Politics in this town never fails to surprise me. Sometimes I just tune out to save my nerves.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-15T20:38:00Z",
+                "content": "Same here. Better to focus on the little things we can control, I guess.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-16T12:05:44Z",
+                "content": "Tried using some fresh herbs from my little garden in the bratwurst recipe last night. It really made a difference! You ever try growing herbs just for cooking?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-16T12:10:13Z",
+                "content": "That sounds lovely! I\u2019ve got a few pots of basil and rosemary on my windowsill. Nothing beats fresh herbs in Italian dishes.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-16T12:13:59Z",
+                "content": "Exactly! It\u2019s nice to have something growing even indoors during winter. Makes cooking feel a bit more connected to the season.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-16T12:16:45Z",
+                "content": "I agree. Plus, it\u2019s kind of therapeutic to tend to the plants while planning meals. Helps me unwind after a busy day.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-20T07:45:33Z",
+                "content": "Morning! Hope your day\u2019s off to a better start than mine. Coffee machine broke this morning, disaster.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-20T07:47:10Z",
+                "content": "Ugh, that\u2019s the worst way to start a day. No caffeine is a nightmare.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-20T07:50:20Z",
+                "content": "I\u2019m seriously considering switching to tea for a bit, but it\u2019s just not the same.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-20T07:52:55Z",
+                "content": "True, but hey, tea can be a nice change sometimes. At least it\u2019s something warm.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-20T07:55:12Z",
+                "content": "Yeah, I\u2019ll give it a shot today. Worst case, I\u2019m just grumpier than usual.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-21T08:25:30Z",
+                "content": "Hey Mary, did you end up going to that basketball game at the Kohl Center on the 20th? I heard the atmosphere was electric.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-21T08:28:02Z",
+                "content": "I did! It was a great break from the usual grind. Even though the tickets were a bit tight on my budget, it felt worth it to cheer with the crowd.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-21T08:31:18Z",
+                "content": "That\u2019s awesome. I love how those games can bring the community together. Must be a nice change from the political drama we\u2019ve been seeing lately.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-21T08:34:44Z",
+                "content": "Absolutely. It\u2019s refreshing to focus on something fun and local. Plus, the energy really lifts your spirits after a long day.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-25T19:10:41Z",
+                "content": "Hey, did you happen to catch that weird light show over the lake last night? Looked kinda magical.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-25T19:13:07Z",
+                "content": "I saw some flickering from my window but wasn\u2019t sure what it was. Glad it wasn\u2019t just me seeing things!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-25T19:15:42Z",
+                "content": "Yeah, looked like some kind of light installation or maybe a drone show? Have no clue though.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-25T19:18:00Z",
+                "content": "Would be cool if it\u2019s a new thing for the city. Makes these cold nights a bit more interesting.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-01-25T19:20:10Z",
+                "content": "Definitely. Something to look forward to during these long winter evenings.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-01T21:05:33Z",
+                "content": "Sophia, I swear, my phone is acting up again. Calls dropping and texts delayed. So annoying.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-01T21:07:45Z",
+                "content": "Ugh, that\u2019s the worst. Have you tried restarting it or clearing some space?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-01T21:10:12Z",
+                "content": "Yep, all that. Might have to look into a new one soon if it keeps up.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-01T21:12:30Z",
+                "content": "Hopefully it holds out a bit longer. Phones breaking down is such a hassle.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-01T21:14:00Z",
+                "content": "Right? I\u2019m just waiting for the day it totally quits on me.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-03T17:22:11Z",
+                "content": "I spent some time today researching that Door County getaway I mentioned. Trying to find places that feel cozy but won\u2019t break the bank. Got any tips for quiet spots?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-03T17:25:30Z",
+                "content": "Door County is such a gem. Maybe look for bed and breakfasts run by locals? They often have that homey feeling and support the community.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-03T17:28:04Z",
+                "content": "Good idea! I want it to feel like a little escape, not a tourist trap. Hope it helps me recharge a bit away from work.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-03T17:30:50Z",
+                "content": "Definitely. Sometimes a change of pace and some quiet nature is all you need to reset.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-05T16:22:18Z",
+                "content": "Mary, random thought\u2014do you remember that crazy snowstorm a few years back? The one that shut everything down?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-05T16:24:07Z",
+                "content": "Oh yeah, that was wild. Roads were totally blocked and schools closed for like a week.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-05T16:26:45Z",
+                "content": "I still remember trying to shovel for hours and feeling like I was never going to finish.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-05T16:29:10Z",
+                "content": "Same here. Honestly, I\u2019m grateful it\u2019s been milder this winter so far.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-05T16:31:20Z",
+                "content": "Milder or not, I\u2019m still ready for spring to show up already.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-09T11:48:00Z",
+                "content": "Hey, quick question: have you seen any good movies lately? I\u2019m in the mood for something light.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-09T11:50:22Z",
+                "content": "I watched that new comedy on streaming last weekend. Pretty funny, nothing too deep.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-09T11:53:30Z",
+                "content": "Sounds perfect. Sometimes I just want to laugh and forget about the busy week.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-09T11:55:12Z",
+                "content": "I\u2019ll send you the title. Maybe it\u2019ll give you that little escape you\u2019re looking for.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-09T11:57:40Z",
+                "content": "Thanks! Can\u2019t wait to check it out.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-14T08:15:55Z",
+                "content": "Morning! Hope your Valentine\u2019s Day is starting off nice and easy.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-14T08:18:20Z",
+                "content": "Thanks, Mary! Just a normal day here but that\u2019s fine by me. How about you?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-14T08:20:45Z",
+                "content": "Same here. Sometimes the quiet days are the best kind.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-14T08:23:00Z",
+                "content": "Agreed. No fuss, no stress.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T19:50:25Z",
+                "content": "Sophia, I was just thinking about how fast this month is flying by. Hard to keep track sometimes!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-18T19:52:40Z",
+                "content": "Tell me about it. Feels like January was just yesterday and now we\u2019re almost into March.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T19:54:55Z",
+                "content": "I swear, time needs to slow down a bit so I can catch up.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-18T19:57:20Z",
+                "content": "If only we could hit pause sometimes, right?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T19:59:10Z",
+                "content": "Exactly! Just a little break to breathe and reset.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-22T13:30:18Z",
+                "content": "Hey Mary, did you hear that new cafe opened downtown? Apparently it\u2019s cozy and not too pricey.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-22T13:33:05Z",
+                "content": "No, I hadn\u2019t! Sounds like a nice spot to check out sometime.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-22T13:35:40Z",
+                "content": "Yeah, I\u2019m curious too. Maybe it\u2019ll be a good place to grab a quick break during the week.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-22T13:37:55Z",
+                "content": "For sure. I\u2019ll keep an eye out for it next time I\u2019m downtown.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-22T13:39:10Z",
+                "content": "Sounds like a plan!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-24T11:11:03Z",
+                "content": "Mary, I\u2019ve been thinking about starting a little kitchen herb garden. Feels like a nice way to keep some greenery inside with the cold outside. How\u2019s your gardening going this season?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-24T11:15:26Z",
+                "content": "It\u2019s going well! Planning to get seeds and soil this month for raised beds. Indoor herbs are great, but I really love the satisfaction of growing outside when spring arrives.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-24T11:18:40Z",
+                "content": "I hear you. I\u2019m a bit envious of your space for that. I\u2019m sticking to pots on the windowsill for now.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-24T11:21:05Z",
+                "content": "Every bit of green counts! Plus, it\u2019s a nice way to keep busy without spending much. Bullet journaling my planting schedule helps keep me on track too.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-26T16:40:50Z",
+                "content": "Sophia, my phone finally gave up yesterday. I\u2019m officially phone-less and it feels weird.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-26T16:42:30Z",
+                "content": "Oh no! That\u2019s rough. How are you managing without it?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-26T16:45:10Z",
+                "content": "It\u2019s a little scary, honestly. I\u2019m borrowing an old one for now but it\u2019s nothing like my usual phone.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Sophia Alberti",
+                "timestamp": "2026-02-26T16:47:20Z",
+                "content": "Hopefully you can get a new one soon. It\u2019s hard being off the grid even for a bit.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-26T16:49:05Z",
+                "content": "Yeah, fingers crossed. Thanks for checking in.",
+                "type": "Generic"
+            }
+        ]
+    },
+    {
+        "participants": [
+            {
+                "name": "Tony Alberti"
+            },
+            {
+                "name": "Mary Alberti"
+            }
+        ],
+        "messages": [
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T09:12:45Z",
+                "content": "Hey Tony, did you see how cold it got last night? My windows were all frosted over.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-03T09:15:30Z",
+                "content": "Yeah, woke up to a frozen windshield. Definitely winter\u2019s grip around here.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T09:18:10Z",
+                "content": "I had to scrape for like 10 minutes before heading out. My hands were numb by the time I got in the car.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-03T09:19:59Z",
+                "content": "Ouch. Gotta get those gloves ready. This cold isn\u2019t going anywhere fast.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T09:21:05Z",
+                "content": "Seriously. I\u2019m already dreaming of spring and some sunshine.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-07T14:34:25Z",
+                "content": "Did you catch the game last night? That last minute was wild.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-07T14:36:42Z",
+                "content": "I did! I couldn\u2019t believe that shot at the buzzer. Had me on the edge of my seat.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-07T14:38:05Z",
+                "content": "Right? I was yelling at the TV. Finally something exciting this week.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-07T14:39:44Z",
+                "content": "Totally. It\u2019s been a slow start to the year otherwise.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-10T18:50:12Z",
+                "content": "Hey, have you tried that new coffee shop downtown yet? Heard their pastries are good.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-10T18:52:03Z",
+                "content": "Not yet, but I\u2019ve been thinking about it. Maybe I\u2019ll stop by tomorrow morning.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-10T18:54:22Z",
+                "content": "Let me know if it\u2019s worth the hype. I need a new spot for weekend coffee runs.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-10T18:56:00Z",
+                "content": "Will do. If the pastries are good, you\u2019ll be the first to know.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-14T07:25:38Z",
+                "content": "Morning Mary, hope you\u2019re staying warm today. It\u2019s freezing out there!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-14T07:27:10Z",
+                "content": "Morning Tony, wrapped up in three layers already. I swear the heater is working overtime.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-14T07:29:45Z",
+                "content": "Same here. I think the heater might quit on me any day now with how hard it\u2019s been running.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-14T07:31:20Z",
+                "content": "Better start thinking about a backup plan before it gives out completely.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-15T14:22:18Z",
+                "content": "Picked up some seeds and soil at the farmers market today. Ready to get the garden going as soon as the weather warms up.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-15T14:45:10Z",
+                "content": "Nice! I\u2019ve been thinking about adding some herbs to my garden this year too. Fresh basil always beats store-bought.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-15T15:02:44Z",
+                "content": "Exactly. Plus, it\u2019s a good way to unwind after work without spending extra money on fancy ingredients.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-15T15:10:33Z",
+                "content": "For sure. There\u2019s something satisfying about growing your own stuff. Keeps me grounded.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-18T20:10:55Z",
+                "content": "I was cleaning out my closet today and found that old sweater you gave me. Still fits surprisingly well.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-18T20:13:08Z",
+                "content": "That one? I remember you didn\u2019t like the color at first. Glad it grew on you.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-18T20:15:23Z",
+                "content": "Yeah, I was wrong. It\u2019s cozy and perfect for days like this when it\u2019s chilly inside and out.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-18T20:17:19Z",
+                "content": "Good to know. Maybe I should find some more like that for you.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-22T11:45:50Z",
+                "content": "I tried that coffee shop you mentioned. The pastries were actually pretty good, you weren\u2019t kidding.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-22T11:48:35Z",
+                "content": "Told ya! Looks like I\u2019m not the only one who needs to make it a regular stop.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-22T11:50:12Z",
+                "content": "Yeah, might even bring some home next time. Always good to have a treat around.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-22T11:52:00Z",
+                "content": "Sounds like a plan. Pastries and coffee are a win-win.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-26T16:03:25Z",
+                "content": "Did you catch the sunset last night? The sky was crazy colors.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-26T16:05:40Z",
+                "content": "I did, it was beautiful. Made me wish winter didn\u2019t stretch on so long.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-26T16:07:10Z",
+                "content": "Right? Moments like that make it easier to deal with the cold.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-26T16:09:03Z",
+                "content": "Exactly. Nature\u2019s little reminder that there\u2019s still beauty in the freeze.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-28T20:17:45Z",
+                "content": "How was that craft-brew tasting event you went to? Discover any new favorites?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-28T20:20:03Z",
+                "content": "It was fun! Found a couple local brews with interesting flavors that I want to remember. It\u2019s a nice way to support smaller places without splurging too much.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-28T20:22:40Z",
+                "content": "Sounds like a good balance. I\u2019ve been sticking mostly to quiet evenings but might check out something similar soon.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-28T20:25:18Z",
+                "content": "Yeah, it\u2019s low-key enough to enjoy without feeling overwhelmed. Plus, I jot down notes in my journal to keep track of what I liked.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-30T08:20:55Z",
+                "content": "Morning Tony. Hope your day\u2019s off to a good start.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-30T08:22:37Z",
+                "content": "Morning Mary, yeah so far so good. You?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-30T08:24:18Z",
+                "content": "Not bad, just trying to get through the morning coffee and wake up properly.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-01-30T08:26:45Z",
+                "content": "Sounds about right. Coffee\u2019s the only thing saving me these days.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-02T19:30:22Z",
+                "content": "You ever notice how quiet it gets when the snow\u2019s really falling?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-02T19:32:10Z",
+                "content": "Yeah, it\u2019s like the world just muffles itself. Kind of nice in a weird way.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-02T19:33:55Z",
+                "content": "It\u2019s peaceful. Makes you want to just sit and watch it for a while.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-02T19:35:40Z",
+                "content": "Exactly. I\u2019ve been doing that when I get home lately. Helps me unwind.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-04T17:30:27Z",
+                "content": "Just finished enrolling in that hospitality course online. Hoping it\u2019ll help me get a better handle on managing work and budgeting.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-04T17:35:54Z",
+                "content": "That sounds like a smart move. Getting some extra skills never hurts, especially when steady work and fair pay are on the line.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-04T17:40:11Z",
+                "content": "Exactly. I\u2019m trying to build something sustainable without relying on quick fixes or shortcuts.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-04T17:43:50Z",
+                "content": "Good call. It\u2019s all about steady progress and keeping your feet on the ground.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-06T15:12:11Z",
+                "content": "So I tried that new recipe I found last week. Turned out better than I expected!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-06T15:14:22Z",
+                "content": "That\u2019s awesome! What was it?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-06T15:16:34Z",
+                "content": "Some kind of baked pasta with cheese and tomato sauce. Simple but tasty.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-06T15:18:00Z",
+                "content": "Sounds like comfort food for sure. Wish I had some now.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-06T15:19:25Z",
+                "content": "Next time I make it, I\u2019ll save you a plate.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-10T10:40:56Z",
+                "content": "Hey Mary, how\u2019s your weekend shaping up?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-10T10:42:33Z",
+                "content": "Pretty low key. Just catching up on some reading and relaxing. You?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-10T10:44:10Z",
+                "content": "Same here, mostly just taking it easy.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-10T10:45:55Z",
+                "content": "Sometimes those quiet weekends are the best kind.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-14T20:05:02Z",
+                "content": "Happy Valentine\u2019s Day, Tony. Hope it\u2019s a good one for you.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-14T20:06:45Z",
+                "content": "Thanks Mary, same to you. Hope you\u2019re treating yourself today.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-14T20:08:22Z",
+                "content": "I just might. Sometimes you gotta do that, right?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-14T20:10:11Z",
+                "content": "Absolutely. Self care is important.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-18T17:55:33Z",
+                "content": "Did you hear about that new art exhibit opening downtown next week?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T17:58:10Z",
+                "content": "Yeah, I heard a little about it. Looks pretty interesting from what I\u2019ve seen.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-18T18:00:05Z",
+                "content": "Might be something good to check out when it opens.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T18:02:15Z",
+                "content": "For sure. I like that the city\u2019s trying to mix things up a bit.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-18T19:20:44Z",
+                "content": "That new art exhibit downtown started this week. Planning to check it out soon. You into that kind of thing?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T19:24:08Z",
+                "content": "I am! Heard it\u2019s a fresh take on local culture, which is always interesting. Might inspire some new ideas for my journal too.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-18T19:27:32Z",
+                "content": "Cool. I like how the city\u2019s trying to mix things up. Gives us something to look forward to besides work and chores.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T19:30:55Z",
+                "content": "Definitely. It\u2019s nice to have places that celebrate community in a creative way.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-22T12:15:47Z",
+                "content": "I finally got around to organizing my photos from last year. Took way longer than I thought.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-22T12:18:02Z",
+                "content": "I bet. Those little projects always take more time than expected.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-22T12:19:36Z",
+                "content": "Yeah, but it was nice to look back on some memories. Kind of made me smile.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-22T12:21:50Z",
+                "content": "That\u2019s the best part, isn\u2019t it? Reminding yourself of the good times.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-26T09:40:20Z",
+                "content": "Looks like the snow might finally start letting up this week.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-26T09:42:11Z",
+                "content": "Fingers crossed. I\u2019m so ready for some fresh air without the freezing cold.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Tony Alberti",
+                "timestamp": "2026-02-26T09:44:05Z",
+                "content": "Same here. Spring\u2019s close, I can feel it.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-26T09:45:50Z",
+                "content": "Can\u2019t wait to see some green again.",
+                "type": "Generic"
+            }
+        ]
+    },
+    {
+        "participants": [
+            {
+                "name": "Elena Rossi"
+            },
+            {
+                "name": "Mary Alberti"
+            }
+        ],
+        "messages": [
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T10:12:45Z",
+                "content": "Hey Elena, did you see that weird snow pattern outside this morning? Looks like a giant spider or something.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-03T10:15:30Z",
+                "content": "Haha, I did! I thought I was imagining things at first. Nature\u2019s pretty weird sometimes.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T10:18:12Z",
+                "content": "Right? I swear it\u2019s like the snow is trying to tell us a story we can\u2019t understand.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-03T10:20:55Z",
+                "content": "Or maybe it\u2019s just bored and messing with us. Either way, made my morning a bit more interesting.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T10:23:01Z",
+                "content": "Same here. Sometimes little things like that are enough to break the dullness.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-07T19:34:22Z",
+                "content": "Hey, Mary. Did you catch the news about the traffic on campus? Looks like a mess with the construction.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-07T19:37:48Z",
+                "content": "Ugh yeah, I heard. Took me twice as long to get home yesterday. They really didn\u2019t think that through.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-07T19:40:10Z",
+                "content": "No kidding. It\u2019s like they expect everyone to just magically know a secret shortcut or something.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-07T19:42:05Z",
+                "content": "If only! I\u2019m considering leaving earlier just to avoid the chaos, but it\u2019s hard with everything else going on.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-07T19:44:32Z",
+                "content": "Yeah, the timing never feels right. Hope it clears up soon, or we\u2019re stuck in this mess for a while.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T08:21:09Z",
+                "content": "Morning! Weird question, but do you ever find yourself daydreaming about just dropping everything and moving somewhere random?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-12T08:25:44Z",
+                "content": "All the time! Sometimes I think about just hopping on a bus with no plan and seeing where I end up.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T08:28:33Z",
+                "content": "Exactly! Like, no responsibilities, no alarms, just whatever comes next. It sounds so freeing.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-12T08:31:05Z",
+                "content": "Yeah, but then reality hits and bills, work, and all that stuff remind you why it\u2019s not that easy.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T08:33:55Z",
+                "content": "True. Still, it\u2019s nice to imagine for a bit. Keeps the mind from getting too stuck.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-15T14:12:18Z",
+                "content": "Hey Elena, I finally got around to buying seeds for my garden. Trying to grow some herbs this spring, hoping it helps with cooking and saves a bit on groceries.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-15T14:17:49Z",
+                "content": "That sounds awesome! I\u2019ve always admired people who garden. I\u2019m more of a plant-killer myself, but fresh herbs would be great for cooking.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-15T14:20:31Z",
+                "content": "Haha, same here in the past. I\u2019m trying to keep it simple this year. Maybe some basil and thyme to start. It\u2019s nice to have something low-key to focus on.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-15T14:23:45Z",
+                "content": "Definitely. It\u2019s like a little project that\u2019s also rewarding. Plus, fresh herbs would totally upgrade my cooking attempts.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-16T21:15:30Z",
+                "content": "So, I saw this hilarious typo in an email today and couldn\u2019t stop laughing. Ever had one of those moments?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-16T21:18:09Z",
+                "content": "Oh yeah, plenty! Last week I typed \u2018public\u2019 as \u2018pubic\u2019 in a message to my boss. I died inside.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-16T21:20:47Z",
+                "content": "No way! That\u2019s golden. I\u2019m sure it gave her a good laugh or at least a shock.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-16T21:23:11Z",
+                "content": "I tried to fix it right away, but the damage was done. Still cringing every time I think about it.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-16T21:25:32Z",
+                "content": "Honestly, those little embarrassing moments make life more memorable. At least you didn\u2019t send it to your whole contact list.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-20T09:10:12Z",
+                "content": "Hey Mary, I went to a local art exhibit last night, and it was so inspiring! You\u2019d love some of the community-driven pieces they had.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-20T09:15:47Z",
+                "content": "Oh nice! I always like seeing how local artists express themselves. Did you find anything that really stood out?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-20T09:18:55Z",
+                "content": "Yeah, there was this series about neighborhood stories\u2014really raw and real. It reminded me how important community voices are.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-20T09:21:30Z",
+                "content": "That\u2019s exactly why I enjoy those walks downtown. It feels good supporting local creativity and small businesses too.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-21T14:02:58Z",
+                "content": "Hey! Just wanted to say you handled that thing last week like a pro. I was impressed.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-21T14:05:44Z",
+                "content": "Thanks, Mary! I was pretty nervous but glad it went okay. Means a lot coming from you.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-21T14:08:10Z",
+                "content": "You really did. Honestly, I think you\u2019ve got a knack for handling stuff under pressure.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-21T14:10:02Z",
+                "content": "That\u2019s nice to hear. Sometimes I feel like I\u2019m just winging it, but maybe I\u2019m better than I think.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-21T14:12:47Z",
+                "content": "Oh, for sure. Way better than winging it. You\u2019ve got this.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-26T09:47:29Z",
+                "content": "Random thought \u2013 what\u2019s the weirdest thing you\u2019ve ever eaten and actually liked?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-26T09:49:50Z",
+                "content": "Hmm, I once tried pickled herring at a friend\u2019s house. Surprisingly not bad, but definitely odd at first bite.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-26T09:52:15Z",
+                "content": "Wow, that\u2019s brave! I\u2019m still iffy about trying certain seafood. What made you go for it?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-26T09:54:40Z",
+                "content": "Curiosity mostly. And the friend insisted it was a must-try. Glad I listened, but I wouldn\u2019t make it a habit.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-26T09:57:03Z",
+                "content": "Good call. Some things are better as one-time adventures.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-31T20:15:59Z",
+                "content": "I spent the evening setting up my bullet journal for February. Trying to keep better track of my habits and budget this month.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-31T20:19:33Z",
+                "content": "I\u2019ve been meaning to try bullet journaling too but never quite stick with it. How do you stay motivated?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-31T20:22:47Z",
+                "content": "I keep it simple and focus on little wins. Tracking my spending really helps me avoid impulse buys, which is key with my budget.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-01-31T20:25:10Z",
+                "content": "Makes sense. I should try that for work stuff, too. Staying organized could help with all the preschool chaos.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-01T20:30:55Z",
+                "content": "Hey Elena, how\u2019s your weekend going so far? Mine\u2019s been pretty chill.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-01T20:33:22Z",
+                "content": "Not bad, just catching up on some stuff around the house. Glad it\u2019s quiet for a bit.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-01T20:35:47Z",
+                "content": "Sometimes those quiet weekends are the best. Nothing like just doing whatever without plans.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-01T20:38:19Z",
+                "content": "Absolutely. It\u2019s like a little reset before the week starts again.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-01T20:40:05Z",
+                "content": "Exactly. I\u2019m hoping to keep this vibe going a bit longer.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-04T21:45:26Z",
+                "content": "Mary, I was thinking about trying some new recipes with herbs. I bet your garden would come in handy for that!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-04T21:49:55Z",
+                "content": "Absolutely! Fresh herbs make such a difference. I\u2019m experimenting with a cheddar-crusted bratwurst recipe next week \u2014 using some of my own thyme and rosemary.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-04T21:52:40Z",
+                "content": "That sounds delicious! I\u2019ll have to get some tips from you. Cooking\u2019s not my strongest suit, but I love trying new flavors.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-04T21:55:22Z",
+                "content": "Happy to share! It\u2019s all about small tweaks and fresh ingredients. Let me know if you want me to send you the recipe.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-05T11:04:33Z",
+                "content": "Quick question: If you could pick any superpower just for a day, what would you choose?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-05T11:07:21Z",
+                "content": "Hmm, probably the ability to freeze time. Imagine how much you could get done or just sneak in a nap!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-05T11:10:46Z",
+                "content": "Oh man, that would be amazing. I\u2019d probably use it to sneak extra snacks without anyone noticing.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-05T11:13:09Z",
+                "content": "Haha, I love that. Super stealth snack ninja.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-05T11:15:26Z",
+                "content": "Exactly! What about you? Any other powers you\u2019d want?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-10T17:29:04Z",
+                "content": "I\u2019m so over this cold weather. Can\u2019t wait for spring to show up already.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-10T17:32:19Z",
+                "content": "Same here. I swear these icy mornings are testing my patience daily.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-10T17:35:10Z",
+                "content": "I keep dreaming of sunny days and just walking outside without freezing my face off.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-10T17:37:44Z",
+                "content": "Can you imagine? I\u2019d probably never go inside again if it stayed warm all the time.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-10T17:40:05Z",
+                "content": "Haha, same. Sunshine should be a requirement, not an option.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-14T22:18:58Z",
+                "content": "Happy Valentine\u2019s Day! Hope you\u2019re treating yourself to something nice today.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-14T22:21:20Z",
+                "content": "Thanks, you too! I\u2019m definitely planning on some chocolate and a lazy evening.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-14T22:24:08Z",
+                "content": "That sounds perfect! Sometimes that\u2019s the best way to celebrate.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-14T22:26:35Z",
+                "content": "Exactly. No pressure, just good vibes and sweets.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-14T22:29:12Z",
+                "content": "Couldn\u2019t agree more. Enjoy your night!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T13:10:47Z",
+                "content": "Random thought: if you had to pick a theme song for your life right now, what would it be?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-18T13:13:33Z",
+                "content": "Ooh, tough one. Maybe something upbeat but chill, like a road trip vibe. You?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T13:16:27Z",
+                "content": "Probably something quirky and a bit all over the place. Like my brain\u2019s soundtrack.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-18T13:19:11Z",
+                "content": "Haha, I like that. Life\u2019s messy but that\u2019s what makes it interesting.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T13:21:45Z",
+                "content": "Definitely. Better to have some noise than silence, even if it\u2019s chaotic.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-23T08:48:53Z",
+                "content": "Morning! Any good stories from the weekend?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-23T08:51:26Z",
+                "content": "Hey! Not much, just spilled coffee all over myself at the store. Classic me.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-23T08:54:10Z",
+                "content": "Oh no! That\u2019s rough. Did anyone see? I\u2019d be mortified.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-23T08:56:42Z",
+                "content": "Sadly, yes. At least the cashier was nice about it. I just laughed it off after the shock wore off.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-23T08:59:00Z",
+                "content": "Good move. Sometimes you just gotta laugh at yourself.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-23T21:10:43Z",
+                "content": "So I started looking into that Kyoto trip we joked about. The budgeting part is kind of overwhelming but also exciting to plan.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-23T21:15:02Z",
+                "content": "Wow, Kyoto sounds amazing! I\u2019m a little jealous. Planning trips on a budget is tough but makes the adventure even sweeter.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-23T21:18:27Z",
+                "content": "Exactly. I\u2019m trying to be realistic about costs but still want to soak in the culture. It\u2019s a nice goal to keep me motivated.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-23T21:21:59Z",
+                "content": "I love that. It\u2019s good to have something to look forward to, especially when work and everything else gets hectic.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-28T16:22:15Z",
+                "content": "Hey Elena, have you noticed how fast this month flew by? Feels like January was yesterday.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-28T16:25:02Z",
+                "content": "I know, right? Time\u2019s been flying. Not sure if I\u2019m ready for March yet.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-28T16:27:38Z",
+                "content": "Same here. Gotta remind myself to slow down sometimes, even if it\u2019s hard.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Elena Rossi",
+                "timestamp": "2026-02-28T16:30:04Z",
+                "content": "Definitely. We should both try to take a breath and enjoy the little moments.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-28T16:32:21Z",
+                "content": "Agreed. Here\u2019s to more slow days ahead.",
+                "type": "Generic"
+            }
+        ]
+    },
+    {
+        "participants": [
+            {
+                "name": "Mark Davis"
+            },
+            {
+                "name": "Mary Alberti"
+            }
+        ],
+        "messages": [
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T09:12:45Z",
+                "content": "Hey Mark, did you see how crazy cold it got overnight? I swear my heater\u2019s working overtime.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-03T09:45:21Z",
+                "content": "Yeah, woke up to frost on the windows. Not ready for this winter stuff yet.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T10:01:33Z",
+                "content": "Same here. I ended up wrapping myself in like three blankets just to get through the night.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-03T10:15:12Z",
+                "content": "At least the snow makes everything look kinda peaceful. Though shoveling\u2019s a pain.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T10:28:55Z",
+                "content": "Peaceful, yeah\u2026 until you have to dig yourself out. I\u2019m still sore from last week.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-07T17:44:02Z",
+                "content": "Hey, random question \u2014 do you ever binge-watch stuff just to avoid doing anything else?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-07T17:59:48Z",
+                "content": "All the time. It\u2019s like my go-to excuse to do nothing productive. You?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-07T18:12:07Z",
+                "content": "Absolutely. I just got hooked on this show that\u2019s way too long. Lost track of days.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-07T18:22:34Z",
+                "content": "Haha, same here. Sometimes I wonder if I\u2019d get more done without those distractions.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-07T18:33:18Z",
+                "content": "Nah, I think it\u2019s necessary balance, weird as that sounds.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T14:05:44Z",
+                "content": "Mark, my phone\u2019s been acting up all day. It keeps freezing when I try to open apps.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-12T14:17:29Z",
+                "content": "Ugh, that\u2019s the worst. Have you tried restarting it? Sometimes that helps.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T14:26:10Z",
+                "content": "Yeah, did that twice. Maybe I need to clear some space or something.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-12T14:33:47Z",
+                "content": "Could be. Or maybe an update\u2019s messing things up. Hopefully it\u2019s nothing serious.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T14:41:53Z",
+                "content": "Fingers crossed. I don\u2019t want to deal with a new phone right now.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-18T20:10:05Z",
+                "content": "Just realized it\u2019s been snowing nonstop for hours. Kinda mesmerizing if you forget about the cold.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-18T20:22:41Z",
+                "content": "Yeah, there\u2019s something about watching snow fall that\u2019s almost hypnotic.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-18T20:30:59Z",
+                "content": "Exactly. Makes me wanna just sit by the window all night with a warm drink.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-18T20:41:33Z",
+                "content": "Sounds like a plan. I might do the same and just relax for once.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-18T20:52:08Z",
+                "content": "Sometimes those quiet nights are exactly what you need to reset.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-22T13:14:19Z",
+                "content": "Hey Mary, what\u2019s your go-to comfort food when the weather\u2019s like this?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-22T13:26:48Z",
+                "content": "Definitely something warm and cheesy. Mac and cheese or a big bowl of chili usually does the trick.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-22T13:38:54Z",
+                "content": "Good call. I\u2019ve been craving soup but also tempted by grilled cheese. Can\u2019t decide.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-22T13:45:11Z",
+                "content": "Why not both? Nothing wrong with doubling down on comfort food.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-22T13:52:27Z",
+                "content": "True that. Sometimes you gotta treat yourself right.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-26T08:55:30Z",
+                "content": "Morning! Got caught in a little ice patch on my way out. Slipped but luckily didn\u2019t fall.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-26T09:07:44Z",
+                "content": "Yikes! Ice is so sneaky. Glad you\u2019re okay though.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-26T09:15:59Z",
+                "content": "Thanks! My heart was racing for a minute there. Definitely paying more attention now.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-26T09:23:16Z",
+                "content": "Yeah, no shame in being careful. Winter\u2019s all about survival sometimes.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-26T09:29:41Z",
+                "content": "Totally. Just hoping the roads and sidewalks get better soon.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-31T20:05:12Z",
+                "content": "Just finished setting up my bullet journal for February. Trying to keep up with runs, gardening, and budgeting all in one place this month.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-31T20:18:37Z",
+                "content": "That sounds super organized. I\u2019ve tried journaling but usually lose track after a week or so. How do you keep at it?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-31T20:25:41Z",
+                "content": "Routine helps, plus I like tracking small wins. Even just jotting down a good run or saving a few bucks feels rewarding.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-01-31T20:33:50Z",
+                "content": "Makes sense. Maybe I should try that to stay on top of training and work stuff.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-01T19:40:22Z",
+                "content": "Hey Mary, have you read anything interesting lately? I\u2019m looking for something new.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-01T19:52:30Z",
+                "content": "I started a mystery novel last week. It\u2019s pretty gripping so far, lots of twists.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-01T20:03:11Z",
+                "content": "Sounds like my kind of thing. Got a title for me to check out?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-01T20:10:57Z",
+                "content": "Yeah, it\u2019s called \u2018The Last Clue.\u2019 If you like surprises, you\u2019ll probably enjoy it.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-01T20:18:45Z",
+                "content": "Thanks, I\u2019ll add it to my list. Appreciate the rec!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-05T16:23:34Z",
+                "content": "So, been thinking about how fast this year\u2019s flying by already. Crazy how January\u2019s almost done.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-05T16:35:19Z",
+                "content": "I know, right? Feels like we just blinked and here we are in February.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-05T16:42:50Z",
+                "content": "Makes me wonder what we\u2019ll even remember from these months when they\u2019re over.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-05T16:51:06Z",
+                "content": "Hopefully more good than bad. Sometimes the small moments stick with you the most.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-05T16:57:33Z",
+                "content": "True. Gotta find a way to make those small moments count.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-06T09:12:07Z",
+                "content": "I ran with the Madison Runners Club yesterday. Group pace really pushes you to keep going.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-06T09:28:44Z",
+                "content": "That\u2019s great! I\u2019ve got a 5-mile run on my calendar this weekend, but I\u2019m still working on pacing myself better.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-06T09:36:11Z",
+                "content": "If you want, I can share some pacing tips or routes that helped me improve endurance.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-06T09:45:23Z",
+                "content": "I\u2019d appreciate that! Always looking to get stronger without burning out early.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-10T11:47:28Z",
+                "content": "Random thought: do you ever just get tired of the usual routine and want to shake things up?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-10T11:59:14Z",
+                "content": "All the time. Sometimes I think about just doing something totally different for a day.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-10T12:05:47Z",
+                "content": "Exactly! Like switching up where you go or what you do, just to break the monotony.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-10T12:12:35Z",
+                "content": "Yeah, even small changes can make a big difference in how you feel.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-10T12:19:02Z",
+                "content": "Maybe I\u2019ll start with changing up my morning coffee spot this week.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-11T17:22:54Z",
+                "content": "Been experimenting with cooking lately\u2014trying to add fresh herbs from the garden to my meals. Makes a difference!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-11T17:35:19Z",
+                "content": "Nice! Fresh herbs always step up a dish. I\u2019ve been trying to improve my grilled cheese game\u2014maybe I should add some herbs too.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-11T17:42:03Z",
+                "content": "Do it! Even a little rosemary or thyme can add a lot of flavor. Saves money and avoids relying on pre-made sauces.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-11T17:50:47Z",
+                "content": "Good call. I\u2019ll try that this week and let you know how it goes.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-14T08:03:27Z",
+                "content": "Hey Mary, hope your weekend\u2019s off to a good start!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-14T08:15:42Z",
+                "content": "Thanks Mark! So far so good. Quiet morning here. You?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-14T08:28:53Z",
+                "content": "Pretty chill. Just trying to enjoy some downtime before the week kicks in again.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-14T08:36:19Z",
+                "content": "Same here. Sometimes those slow mornings are the best kind.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-14T08:44:00Z",
+                "content": "Agreed. Little things like that help keep me sane.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-18T20:05:33Z",
+                "content": "Caught the Brewers game last night. The crowd energy was unreal. Ever been to a game like that?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T20:15:17Z",
+                "content": "I went to one a while back. Loved the atmosphere but it\u2019s a bit pricey for me. More into quiet nights with a good craft brew.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-18T20:23:48Z",
+                "content": "Understandable. I like those quiet nights too, especially when I\u2019m decompressing after work.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-18T20:30:12Z",
+                "content": "Exactly. I actually have a tasting event coming up soon at the Madison Brewery. Should be fun but relaxed.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-20T21:18:47Z",
+                "content": "So I saw this weird little roadside stand today selling homemade jams. Made me curious what kind of random finds you\u2019ve come across lately.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-20T21:30:22Z",
+                "content": "That sounds cool! I found a tiny bookstore last weekend tucked away behind a coffee shop. Didn\u2019t even know it was there.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-20T21:39:55Z",
+                "content": "Bookstore discoveries are the best. Always feels like a secret treasure.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-20T21:47:10Z",
+                "content": "Exactly. Makes you want to explore more just to see what else you might be missing.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-20T21:55:33Z",
+                "content": "Totally. Maybe we should both keep an eye out for cool hidden spots.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-24T15:20:39Z",
+                "content": "Been thinking about trying to make my own preserves this spring. Could be a fun way to mix hobbies and save a bit.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-24T15:33:02Z",
+                "content": "That sounds like a solid plan. Homemade jams always taste better than store-bought.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-24T15:40:55Z",
+                "content": "Yeah, and it fits with supporting local and small-scale efforts. Plus, it\u2019s a nice break from the usual routine.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-24T15:48:27Z",
+                "content": "Definitely. Let me know when you get started\u2014I\u2019d love to hear how it goes.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-25T15:11:49Z",
+                "content": "Hey Mary, I was thinking about those jams you mentioned. Ever tried making your own preserves?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-25T15:24:08Z",
+                "content": "I haven\u2019t, but it sounds like a fun project. Could be messy though!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-25T15:32:27Z",
+                "content": "Yeah, probably messy but worth it if it tastes good. Might be something to try this spring.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-25T15:40:16Z",
+                "content": "I\u2019m down. Could be a good way to shake up the routine like we talked about.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mark Davis",
+                "timestamp": "2026-02-25T15:47:52Z",
+                "content": "For sure. Let me know if you decide to dive in!",
+                "type": "Generic"
+            }
+        ]
+    },
+    {
+        "participants": [
+            {
+                "name": "Carla Mancini"
+            },
+            {
+                "name": "Mary Alberti"
+            }
+        ],
+        "messages": [
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T09:13:22Z",
+                "content": "Hey Carla, did you see how crazy cold it got last night? My heater's working overtime.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-03T09:15:47Z",
+                "content": "Ugh, yeah. I woke up shivering. I think my gloves froze on the way to work.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T09:17:30Z",
+                "content": "Gloves frozen sounds brutal. I\u2019m basically living in sweatpants and hoodies now.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-03T09:20:40Z",
+                "content": "Same here. I might start wearing my winter coat indoors just to survive.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-03T09:22:56Z",
+                "content": "Haha, indoor coat life. At least we\u2019re in this freeze together.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-06T14:55:11Z",
+                "content": "Mary, tell me I\u2019m not the only one who can\u2019t get a decent cup of coffee around here lately.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-06T14:57:03Z",
+                "content": "Nope, you\u2019re definitely not alone. I keep hoping for a decent latte but end up with disappointment.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-06T14:59:15Z",
+                "content": "It\u2019s like the baristas forgot how coffee is supposed to taste or something.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-06T15:01:23Z",
+                "content": "Right? At this point I\u2019m thinking of just investing in a fancy machine at home.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-06T15:03:02Z",
+                "content": "Good idea. Less disappointment, more caffeine. Win-win.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-10T18:32:47Z",
+                "content": "Random thought: why do some people still leave their cars running outside stores? Like, is it that cold or just lazy?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-10T18:35:09Z",
+                "content": "I\u2019ve seen that too. Sometimes I wonder if they think the car\u2019s gonna miss them if they shut it off.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-10T18:37:56Z",
+                "content": "Haha yeah, or maybe it\u2019s a power move? Like \u2018look at me, I\u2019m important enough to waste gas.\u2019",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-10T18:40:00Z",
+                "content": "Power move or not, it drives me nuts every time I see it.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-10T18:42:15Z",
+                "content": "Same. I\u2019m tempted to just turn their car off and walk away.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T08:22:14Z",
+                "content": "Carla, I tried using some fresh herbs from the garden in my morning tea. Totally changed the game. Do you ever mess with herbs beyond cooking?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-12T08:26:43Z",
+                "content": "That sounds amazing! I\u2019ve only stuck to basil and mint for cooking, but gardening always seems so rewarding. Wish I had your green thumb.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-12T08:29:50Z",
+                "content": "It\u2019s definitely a nice way to slow down after work. Plus, it keeps me from spending extra on fancy teas or spices. Budget-friendly and soothing.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-12T08:32:17Z",
+                "content": "I should try that. Between work and everything else, I need more little pockets of calm. Maybe you could give me some beginner tips sometime?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-14T12:21:33Z",
+                "content": "Mary, what\u2019s your go-to comfort food when the week\u2019s been a mess?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-14T12:23:50Z",
+                "content": "Oh man, definitely mac and cheese. No questions asked.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-14T12:26:14Z",
+                "content": "Classic. I\u2019m all about a big bowl of chili myself.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-14T12:28:02Z",
+                "content": "Chili\u2019s good too. Nothing beats cheesy pasta when I\u2019m wiped out though.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-14T12:30:45Z",
+                "content": "True. I might have to try your mac and cheese next time I\u2019m feeling down.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-17T20:11:06Z",
+                "content": "You ever notice how some people seem to walk like they\u2019re in a rush even when they have nowhere to go?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-17T20:13:28Z",
+                "content": "I see that all the time. Like they\u2019re racing against an invisible clock or something.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-17T20:15:34Z",
+                "content": "Exactly! It\u2019s like slow down, you\u2019re not in a marathon.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-17T20:18:02Z",
+                "content": "Maybe they\u2019re just stressed or trying to escape from their own thoughts.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-17T20:20:22Z",
+                "content": "Could be. I wish people would just chill more often.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-19T16:41:07Z",
+                "content": "Hey Mary, been thinking about getting into some local art events. Have you been to anything recently that you\u2019d recommend?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-19T16:44:55Z",
+                "content": "Funny you ask! I went to that art walk downtown on the 10th \u2014 really cool stuff, lots of local artists showing work. Great vibe, and pretty affordable too.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-19T16:47:33Z",
+                "content": "That sounds right up my alley. I like how art scenes here feel so connected to the community, not just flashy galleries.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-19T16:50:21Z",
+                "content": "Exactly. Plus, lots of those events support local causes, which I appreciate. Let me know if you want me to keep an eye out for the next one.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-21T08:44:50Z",
+                "content": "Mary, do you remember that weird smell in the coffee shop last week? Still can\u2019t figure out what it was.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-21T08:46:33Z",
+                "content": "Oh yeah, that was so strange. Like a mix of burnt popcorn and something sour.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-21T08:48:17Z",
+                "content": "I almost thought it was some kind of prank or a failed experiment.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-21T08:50:11Z",
+                "content": "Same here. I kept sniffing, hoping it would clear up, but nope.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-21T08:52:02Z",
+                "content": "Mystery of the month right there.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-24T13:05:44Z",
+                "content": "I\u2019ve been meaning to ask, have you ever had a pet that just totally drove you nuts?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-24T13:08:19Z",
+                "content": "Oh yes, my old cat was a total terror some days. Would knock everything off the shelves just for fun.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-24T13:10:46Z",
+                "content": "Haha, sounds like my kind of chaos. Mine used to hide my shoes and act like nothing happened.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-24T13:13:03Z",
+                "content": "Classic! They act innocent but you know better.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-24T13:15:27Z",
+                "content": "Exactly. Pets have a way of keeping you humble.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-28T19:44:55Z",
+                "content": "Have you noticed how some days just feel like they drag on forever?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-28T19:47:07Z",
+                "content": "Yes! Especially on Mondays. I swear the clock moves in slow motion.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-28T19:49:40Z",
+                "content": "I\u2019m convinced time takes a coffee break when I\u2019m at work.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-01-28T19:52:12Z",
+                "content": "Haha, if only we could control time like that. Would make life easier.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-01-28T19:54:29Z",
+                "content": "For sure. Then again, maybe the slow days help us appreciate the fast ones more.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-02T11:36:44Z",
+                "content": "Carla, ever have one of those moments when you totally blank on a word you use all the time?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-02T11:38:52Z",
+                "content": "All the time! It\u2019s like my brain just decides to take a mini vacation.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-02T11:41:08Z",
+                "content": "Yesterday I was trying to say \u2018umbrella\u2019 and came out with something totally made up.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-02T11:43:33Z",
+                "content": "Haha, that\u2019s perfect. We should keep a list of our funniest brain farts.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-02T11:45:50Z",
+                "content": "Yes! I\u2019ll start: \u2018flumbrella\u2019 for umbrella.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-03T09:11:38Z",
+                "content": "Carla, I finally set up my bullet journal for February last night. I\u2019m trying to keep better track of my budget and habits. Ever tried bullet journaling?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-03T09:15:02Z",
+                "content": "I\u2019ve heard of it but never stuck with one. I\u2019m more of a digital calendar person, but I\u2019m curious how it helps with budgeting?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-03T09:18:29Z",
+                "content": "I use it to log every expense and compare it with my goals. It\u2019s low-tech but helps me see where my money\u2019s really going, which is crucial on my hourly wage.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-03T09:21:44Z",
+                "content": "That sounds smart. I should try something like that for my nonprofit work hours and project deadlines too.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-06T17:20:18Z",
+                "content": "Mary, do you ever have those days where you just want to stay in bed all day and hide?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-06T17:22:45Z",
+                "content": "Honestly, yes. Especially when the weather\u2019s gloomy and nothing\u2019s going right.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-06T17:25:29Z",
+                "content": "Same here. Sometimes the bed is the safest place.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-06T17:27:38Z",
+                "content": "Totally. But then I remind myself the day\u2019s not over and pull myself up\u2026 eventually.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-06T17:29:51Z",
+                "content": "Slow and steady wins the day, I guess.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-11T10:08:05Z",
+                "content": "So I tried cooking something new last night and it was a total disaster. Burned everything.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-11T10:10:44Z",
+                "content": "Oh no! What were you trying to make?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-11T10:13:12Z",
+                "content": "Some kind of stir fry but it ended up more like stir burnt.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-11T10:15:20Z",
+                "content": "Haha, hey at least you tried. Next time will be better, I\u2019m sure.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-11T10:17:27Z",
+                "content": "Thanks. I think I\u2019ll stick to sandwiches for a while though.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-15T21:03:33Z",
+                "content": "Mary, do you think people overcomplicate things sometimes?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-15T21:06:00Z",
+                "content": "All the time. Like, why make simple stuff so hard?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-15T21:08:22Z",
+                "content": "Exactly. Sometimes I just want to scream \u2018just take a breath and chill!\u2019",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-15T21:10:35Z",
+                "content": "Right? Life\u2019s complicated enough already.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-15T21:13:47Z",
+                "content": "Preach. We should make \u2018keep it simple\u2019 our motto.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-16T11:24:38Z",
+                "content": "Mary, I saw some people running laps around Lake Mendota early this morning. You ever join those morning runs?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-16T11:27:22Z",
+                "content": "Yeah, I actually ran 4 miles there on the 3rd. It\u2019s a great spot to clear your head before the day starts.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-16T11:30:15Z",
+                "content": "I could use that kind of routine. Running\u2019s always been a bit intimidating, but maybe a group or a familiar spot would help.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-16T11:33:44Z",
+                "content": "For sure. I\u2019m actually planning to run with the Madison Runners Club on the 7th next week. Group energy might make it easier and more fun.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-20T16:44:56Z",
+                "content": "Do you ever feel like some days just sneak up and catch you totally off guard?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-20T16:47:25Z",
+                "content": "Definitely. Like suddenly it\u2019s 5pm and I have no idea where the day went.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-20T16:50:04Z",
+                "content": "Exactly that. Then you\u2019re left wondering if you actually got anything done at all.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-20T16:52:19Z",
+                "content": "Sometimes I think those days are just practice for chaos days.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-20T16:54:47Z",
+                "content": "Ha, chaos days sound about right. At least we get to laugh about it.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-23T14:05:57Z",
+                "content": "Carla, I\u2019ve been thinking about planning a quiet getaway soon to recharge. Ever do little trips just to reset your headspace?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-23T14:09:12Z",
+                "content": "I try to, but it\u2019s tough with work and budget. I get that though \u2014 stepping away helps me come back clearer and less stressed.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-23T14:12:48Z",
+                "content": "Yeah, I\u2019m looking into a lakeside spot in Door County. Something low-key and affordable. Quiet nature always does the trick for me.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-23T14:15:29Z",
+                "content": "Sounds perfect. I might have to steal that idea sometime soon. If you find any budget-friendly gems, please share!",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-25T09:33:18Z",
+                "content": "Hey! What\u2019s the weirdest thing you\u2019ve seen someone doing in public lately?",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-25T09:35:44Z",
+                "content": "Hmm, I saw someone trying to do yoga poses while waiting for the bus. Not sure if it was exercise or just killing time.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-25T09:38:05Z",
+                "content": "That\u2019s hilarious! I hope they didn\u2019t fall over or get weird looks.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Mary Alberti",
+                "timestamp": "2026-02-25T09:40:23Z",
+                "content": "They looked totally focused but yeah, a few people definitely stared.",
+                "type": "Generic"
+            },
+            {
+                "sender_name": "Carla Mancini",
+                "timestamp": "2026-02-25T09:42:12Z",
+                "content": "Some people just have no shame. I admire that sometimes.",
+                "type": "Generic"
+            }
+        ]
+    }
+]

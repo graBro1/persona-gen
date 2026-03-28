@@ -1,0 +1,11 @@
+{
+  "first_name": "Mary",
+  "last_name": "Alberti",
+  "age": 28,
+  "sex": "Female",
+  "marital_status": "never_married",
+  "education_level": "high_school",
+  "city": "Madison",
+  "state": "WI",
+  "country": "USA"
+}

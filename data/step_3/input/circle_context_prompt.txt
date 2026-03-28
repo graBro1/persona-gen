@@ -1,0 +1,51 @@
+The following insights describe !<INPUT 0>!.
+
+!<INPUT 1>!
+
+The following summaries describe the 5 people closest to !<INPUT 0>!.
+
+!<INPUT 2>!
+
+Including !<INPUT 0>!, write life defining characteristics for each person described above.
+
+Possible Topics: 
+Taboo (Health, Religion, Political, etc.)
+Interest
+Preference
+Financial Constraint
+
+Keep each entry concise and accurate to the traits and values of the respective character.
+If a topic is not applicable, do not mention it at all. Do not include topics which are not listed.
+Directly state answers without excessive description or unneeded context.
+Strictly write entries which significantly contribute to a person's life (e.g. a Taboo must be a concrete, high severity condition or obligation and imply active prevention by a character, such as an allergy or other impairing health condition).
+Personal context or strong correlation may be used to suggest additional characteristics.
+
+Each entry should include the topic (Taboo, Interest, Preference, Financial Constraint), followed by the specification.
+
+Example Output:
+[
+    {
+        "name": "Name 1",
+        "context": [
+            "Taboo: Peanut Allergy",
+            "Interest: Hiking",
+            "Interest: Robotics",
+            "Preference: Prefers Italian cuisine"
+        ]
+    },
+    {
+        "name": "Name 2",
+        "context": [
+            "Interest: Music Production",
+            "Preference: Warriors (NBA) fan",
+            "Financial Constraint: $200 monthly leisure spending limit"
+        ]
+    },
+    {
+        "name": "Name 3",
+        "context": [
+            "Taboo: Pork (prohibited by religion)",
+            "Interest: Soccer"
+        ]
+    }
+]

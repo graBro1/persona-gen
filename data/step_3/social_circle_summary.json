@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Sophia Alberti",
+        "demographic_details": "53-year-old Italian-American woman, Mary's mother, lifelong Madison resident, works as a school administrative assistant.",
+        "background": "Raised in an Italian-American family with strong community ties. Sophia has maintained family traditions, especially Sunday family dinners, and instilled cultural values of hard work and community cohesion in Mary. She manages household finances and supports Mary's educational and career ambitions.",
+        "how_they_first_met": "Mother and daughter.",
+        "preferences": "Values family traditions, enjoys cooking Italian meals, gardening, and community events. Prefers practical solutions and is moderately socially conservative. Supports local small businesses and emphasizes education for advancement.",
+        "shared_interests_activities": "Weekly Sunday dinners, gardening together, attending local cultural festivals, discussing family finances and budgeting, recipe sharing and cooking Italian meals.",
+        "reason_for_being_close": "Sophia is a foundational figure in Mary\u2019s life, providing emotional support, cultural grounding, and practical advice. Their close daily interactions reinforce Mary\u2019s identity and resilience.",
+        "recent_topics_discussed": [
+            "Mary\u2019s plans for community college enrollment and balancing work with school.",
+            "Budgeting strategies to save for Mary\u2019s future diner business.",
+            "Health and wellness routines, including exercise and nutrition.",
+            "Updates on family health concerns and caregiving responsibilities.",
+            "Community events and local small business support in Madison."
+        ]
+    },
+    {
+        "name": "Tony Alberti",
+        "demographic_details": "56-year-old Italian-American man, Mary's father, retired factory worker, lifelong resident of Madison.",
+        "background": "Tony worked in manufacturing for most of his career and embodies working-class values of discipline and perseverance. He values steady employment, fair wages, and community solidarity. He is less politically vocal but deeply cares about economic security for his family.",
+        "how_they_first_met": "Father and daughter.",
+        "preferences": "Enjoys fishing, attending local sports games, gardening, and maintaining family traditions. He is pragmatic, values hard work, and supports Mary\u2019s goals while being cautious about economic risks.",
+        "shared_interests_activities": "Weekend gardening projects, watching local sports together, attending family meals, discussing work and economic issues, occasional fishing trips.",
+        "reason_for_being_close": "Tony offers emotional support grounded in shared cultural heritage and working-class experience. His practical advice and steady presence help Mary navigate economic and career challenges.",
+        "recent_topics_discussed": [
+            "Mary\u2019s job responsibilities and aspirations for promotion at the restaurant.",
+            "Economic concerns about inflation and cost of living in Madison.",
+            "Importance of fair wages and workers\u2019 rights in the current labor market.",
+            "Discussions about family finances and budgeting for education.",
+            "Community updates and local political issues affecting small businesses."
+        ]
+    },
+    {
+        "name": "Elena Rossi",
+        "demographic_details": "24-year-old Italian-American woman, Mary\u2019s closest childhood friend, currently working as a preschool teacher assistant in Madison.",
+        "background": "Grew up in the same neighborhood as Mary, shared many school and community activities. Elena is similarly focused on practical career advancement and community involvement, with a strong appreciation for their shared cultural heritage.",
+        "how_they_first_met": "Met in elementary school in Madison, grew up in adjacent Italian-American families.",
+        "preferences": "Enjoys local art exhibits, running, community volunteer work, and Italian cooking. Shares moderate political views with a focus on education and community welfare.",
+        "shared_interests_activities": "Running with the Madison Runners Club, attending local art exhibits, cooking traditional meals together, volunteering at community events, bullet journaling and goal-setting discussions.",
+        "reason_for_being_close": "Elena and Mary share deep cultural roots and mutual support through life transitions. Their friendship provides emotional encouragement and a sense of belonging outside the family.",
+        "recent_topics_discussed": [
+            "Balancing work and personal goals, including education and career plans.",
+            "Strategies for stress management and healthy routines.",
+            "Local community events and volunteer opportunities.",
+            "Discussions on affordable healthcare access and workers\u2019 rights.",
+            "Shared interest in small business ownership and entrepreneurship."
+        ]
+    },
+    {
+        "name": "Mark Davis",
+        "demographic_details": "28-year-old male, coworker and informal mentor at the fast-food restaurant where Mary works, lifelong Madison resident.",
+        "background": "Started as a crew member, now a shift supervisor with several years of experience. Mark is pragmatic and supports frontline workers\u2019 advancement. He is locally engaged but not politically active, sharing Mary\u2019s moderate and practical approach to work and life.",
+        "how_they_first_met": "Met as coworkers at the fast-food restaurant about two years ago, started working the same shifts and collaborated on training new staff.",
+        "preferences": "Enjoys sports, local craft brewing, and community sports leagues. Focuses on career advancement within the service industry and supports fair labor practices.",
+        "shared_interests_activities": "Coordinating shift schedules, training new employees, discussing management challenges, occasional social outings after work, sharing craft brew recommendations.",
+        "reason_for_being_close": "Mark provides work-related guidance and emotional support, reinforcing Mary\u2019s leadership skills and career ambitions. Their shared workplace experiences foster trust and camaraderie.",
+        "recent_topics_discussed": [
+            "Mary\u2019s aspirations for supervisor and managerial roles.",
+            "Handling difficult customers and workplace stress.",
+            "Balancing shift work with education and personal life.",
+            "Updates on local labor policies and wage discussions.",
+            "Sharing tips on budgeting and time management."
+        ]
+    },
+    {
+        "name": "Carla Mancini",
+        "demographic_details": "26-year-old female, friend and fellow member of the Madison Runners Club, Italian-American heritage, works as an administrative assistant in a local nonprofit.",
+        "background": "Carla and Mary met through the Madison Runners Club about three years ago. Carla shares Mary\u2019s appreciation for community engagement and cultural traditions, though she is slightly more socially progressive. Their friendship is built on mutual support and shared health-conscious lifestyles.",
+        "how_they_first_met": "Introduced at a Madison Runners Club meet-up, bonded over shared Italian-American heritage and interest in community events.",
+        "preferences": "Passionate about running, local art and music scenes, healthy living, and community volunteering. Supports accessible education and inclusive local policies.",
+        "shared_interests_activities": "Running and training together, attending art exhibits and craft brew tastings, participating in community volunteer events, exchanging bullet journaling tips and wellness strategies.",
+        "reason_for_being_close": "Carla offers Mary a peer perspective on balancing work, fitness, and community involvement. Their friendship provides emotional support and broadens Mary\u2019s social and cultural engagement.",
+        "recent_topics_discussed": [
+            "Training plans and running events in Madison.",
+            "Balancing work schedules with social and fitness goals.",
+            "Exploring local art exhibits and community cultural programs.",
+            "Discussions on affordable education and career development.",
+            "Mental health strategies and stress management."
+        ]
+    }
+]

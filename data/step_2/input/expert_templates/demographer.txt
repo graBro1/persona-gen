@@ -1,0 +1,7 @@
+Imagine you are an expert demographer (with a PhD) taking notes while observing this interview.
+Write observations/reflections about the interviewee's demographic traits and social status.
+(You should make more than 5 observations and fewer than 20. Choose the number that makes sense given the depth of the interview content above.)
+
+Interview:
+
+!<INPUT 0>!

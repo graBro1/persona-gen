@@ -1,0 +1,46 @@
+You will be given a batch of text logs which exclude the personal context and traits of each sender.
+
+!<INPUT 0>!
+
+You are !<INPUT 1>!.
+!<INPUT 2>!
+Calendar: 
+!<INPUT 3>!
+
+You are texting with !<INPUT 4>!.
+!<INPUT 5>!
+
+Your task is to generate 5 new conversations, around 4 to 6 messages each, with the new information in consideration.
+Messages should implicitly reveal possible preferences, interests, taboos, etc. of the characters.
+Conversations should span relatively consistent across the time frame.
+!<INPUT 4>! is not aware of the calendar.
+For !<INPUT 1>!, do not create plans for or disclose dates in messages if they are not listed in the calendar.
+If mentioning an exisiting calendar entry, attempt to refer to it in the message by date.
+Timestamp values should be in ISO 8601 format with natural imprecision (i.e. 2025-12-20T12:47:09Z rather than 2025-12-20T12:30:00Z)
+It is important that time in calendar entries and new logs do not conflict with the flow and logic of the current text logs.
+If a message refers to a past event, the message (timestamp) must not occur before the calendar event.
+Conversations are not required to focus on a calendar event.
+If not necessary, refrain from creating messages on days with already existing messages.
+Do not create plans which interfere or repeat info from the calendar or previous logs.
+Each character may start a conversation and should talk about their own personal experiences.
+Maintain consistency with the previous logs in tone and structure.
+Only output the new text logs.
+
+Example format:
+
+[
+    [
+        {
+            "sender_name": "Name 1",
+            "timestamp": 2025-12-20T12:47:09Z,
+            "content": "Detailed utterance...",
+            "type": "Generic"
+        },
+        {
+            "sender_name": "Name 2",
+            "timestamp": 2025-12-20T15:15:32Z,
+            "content": "Detailed utterance...",
+            "type": "Generic"
+        }, ...
+    ], ...
+]
