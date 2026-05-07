@@ -1,4 +1,4 @@
-# Persona activity log (messenger, calendar) data generation prototype for [PERSONA-Bench](https://github.com/zhadyz/PERSONA-Bench)
+# Persona activity log (messenger, calendar) data generation prototype for [PersonaBench](https://github.com/TruePersona/PersonaBench)
 
 ## Overview
 
